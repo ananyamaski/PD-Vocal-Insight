@@ -30,4 +30,4 @@ https://pd-vocal-insight.lovable.app/
 - Mobile application support
 
 ## Author
-Ananya Maski
+Ananya 
